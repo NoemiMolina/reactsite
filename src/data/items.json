@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "A very good book",
+    "price": 10.99,
+    "imgUrl": "/imgs/shining.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The best Assassin's Creed",
+    "price": 30,
+    "imgUrl": "/imgs/acIIpic.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The sauce",
+    "price": 1000,
+    "imgUrl": "/imgs/sauce.jpg"
+  },
+  {
+    "id": 4,
+    "name": "A guy playing billard",
+    "price": 1400,
+    "imgUrl": "/imgs/truc.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Another very good book",
+    "price": 15,
+    "imgUrl": "/imgs/tomiebook.jpg"
+  },
+  {
+    "id": 6,
+    "name": "A good horror movie",
+    "price" : 8,
+    "imgUrl": "/imgs/it.jpg"
+  }
+]
